@@ -56,7 +56,7 @@ export default function Home() {
         <div className="hero-copy">
           <div className="eyebrow"><span className="eyebrow-dot" /> TUESDAY, AUG 11 <span className="eyebrow-line" /> 서울, 맑음 27°C</div>
           <h1>오늘 점심,<br /><em>뭐 먹지?</em></h1>
-          <p>매일 반복되는 점심 고민,<br />오늘은 10초 만에 골라드릴게요.</p>
+          <p>매일 반복되는 점심 고민,<br />오늘은 3초 만에 골라드릴게요.</p>
           <button className="primary-btn" onClick={pickRandom}>오늘의 메뉴 뽑기 <span>↗</span></button>
           <div className="hero-note"><span>✦</span> 오늘도 맛있는 하루 되세요</div>
         </div>
